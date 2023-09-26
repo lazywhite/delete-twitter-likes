@@ -1,7 +1,3 @@
-# Delete Twitter Likes
-
-Use this basic script to delete all your likes on Twitter.
-
 ## How to use
 
 1. Sign in to Twitter in Firefox or a Chromium browser
